@@ -16,7 +16,7 @@ Post Evaluation Task 1 on the CodaLab
 |Two Inputs FFNN|[Funniness_Estimation.ipynb]|
 |Two Inputs CNN & Two Inputs RNN|[Funniness_Estimation_2nd_version.ipynb]|
 |Pre-trained LMs|[Funniness_Estimation_Regression_Task_1.ipynb]|[Funniness_Estimation_3rd_version.ipynb]
-|Pre-trained LMs with a fake task||[Funniness_Estimation_4rd_version.ipynb]
+|Pre-trained LMs with a fake task||[Funniness_Estimation_4th_version.ipynb]
 
 ********
 <p align="center">
@@ -245,7 +245,7 @@ This project following MIT License as written in the [LICENSE] file.
 [Funniness_Estimation_2nd_version.ipynb]:./subtask-1/code/Funniness_Estimation_2nd_version.ipynb
 [Funniness_Estimation_Regression_Task_1.ipynb]:./subtask-1/code/Funniness_Estimation_Regression_Task_1.ipynb
 [Funniness_Estimation_3rd_version.ipynb]:./subtask-2/code/Funniness_Estimation_3rd_version.ipynb
-[Funniness_Estimation_4rd_version.ipynb]:./subtask-2/code/Funniness_Estimation_4rd_version.ipynb
+[Funniness_Estimation_4th_version.ipynb]:./subtask-2/code/Funniness_Estimation_4th_version.ipynb
 [task1_log]:./images/task1_log.png
 [task2_v1_log1]:./images/task2_v1_log1.png
 [task2_v1_log2]:./images/task2_v1_log2.png
