@@ -177,7 +177,7 @@ straightly for the real classification task
 * With Data Augmentation (add “funlines” training dataset)
   * Model: bert_base_uncased
   * Inputs structure: new headlines + new words
-  * `Test loss: 0.52054 (Best performance achieved. among all trials)`
+  * `Test loss: 0.52054 (Best performance achieved among all trials)`
 
 | ![task1_log][task1_log] | 
 |:--:| 
