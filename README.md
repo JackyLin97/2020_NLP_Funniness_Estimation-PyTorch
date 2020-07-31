@@ -109,7 +109,7 @@ a single representation and do a normal matrix multiplication in the output laye
 #### Pre-trained LM + a regression layer (LMs applied: BERT, ALBERT, XLNet, ELECTRA)
 ##### Version 1 - Concatenate original headlines and new headlines  
 <p align="left">
- <img src="./images/lm_inputs_version_2.png" width="600" />
+ <img src="./images/lm_inputs_version_1.png" width="600" />
 </p>
 
 ##### Version 2 - Concatenate new headlines and new words  
