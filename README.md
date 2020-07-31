@@ -140,9 +140,9 @@ straightly for the real classification task
 
 ## Optimizer & Learning Rate Scheduler
 ### For FFNN, CNN, RNN:
-* The optimizer ‘AdamW’ and the scheduler ‘CosineAnnealingLR’ provided by pytorch
+* The optimizer `AdamW` and the scheduler `CosineAnnealingLR` provided by pytorch
 ### For pre-trained LMs (BERT-liked LMs):
-* The optimizer ‘AdamW’ and the scheduler ‘get_linear_schedule_with_warmup’ from [Huggingface transformers]
+* The optimizer `AdamW` and the scheduler `get_linear_schedule_with_warmup` from [Huggingface transformers]
 
 ## Prime Hyperparameters
 * Learning Rate
