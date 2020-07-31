@@ -170,7 +170,7 @@ straightly for the real classification task
 |30|1e-4|50|128|32|Ture|0.3|0.586|0.576|0.571
 
 #### Best performance achieved by Pre-trained LMs
-* WithoutDataAugmentation
+* Without Data Augmentation
   * Model: bert_base_uncased
   * Inputs structure: new headlines + new words
   * Test loss: 0.52937
