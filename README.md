@@ -51,7 +51,7 @@ Post Evaluation Task 1 on the CodaLab
 
 ## Data Preprocessing
 ### Task One
-* Convert original headlines into normal sentences (Remove “<” and “/>” by applying RE)
+* Convert original headlines into normal sentences (Remove `<` and `/>` by applying RE)
 * Get the edited version of headlines by doing word substitution using RE
 * Do tokenization and lowercasing for each edited-original headlines pair
 
